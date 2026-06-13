@@ -1,0 +1,3 @@
+app_identifier("com.resculink") # Replace with your bundle ID
+apple_id("6738790948")      # Your Apple ID
+team_id("FTZ3924YHP")              # Your team ID

@@ -1,0 +1,8 @@
+const SET_LOADING = 'SET_LOADING';
+const BUTTON_LOADING = 'BUTTON_LOADING';
+
+
+export {
+    SET_LOADING,
+    BUTTON_LOADING
+}

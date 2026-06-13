@@ -1,0 +1,19 @@
+{
+    
+
+    "register_as_user":"Registrarse como usuario",
+    "register_as_provider":"Registrarse como proveedor",
+    "login":"Acceso",
+    "enter_login_details_to":"Ingrese sus datos de inicio de sesión para",
+    "access_account":"accede a tu cuenta",
+    "enter_Password":"Introduce la contraseña",
+
+    "enter_email" :"Ingrese el correo electrónico",
+    "phone_no":"Número de teléfono",
+    "password":"Contraseña",
+    "remember_me":"Acuérdate de mí",
+    "forgot_pass":"¿Has olvidado tu contraseña?",
+    "dont_have_acc":"¿No tienes una cuenta?",
+    "signup":"Inscribirse"
+}
+  

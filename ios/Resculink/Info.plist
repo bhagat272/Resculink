@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BGTaskSchedulerPermittedIdentifiers</key>
+	<array>
+		<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	</array>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>Resculink</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<false/>
+		<key>NSAllowsLocalNetworking</key>
+		<true/>
+	</dict>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Resculink need to access to your Apple Music library to personalize your music experience.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Resculink need to access camera to upload profile picture. We securely store and protect your data on our servers, employing industry-standard encryption and best practices to ensure your information remains confidential and safe.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Resculink needs your contact permission to get your contact list to sync contacts. With the help of this feature, you will be able to send friend requests and invite friends on the application. We securely store and protect your contact data on our servers, employing industry-standard encryption and best practices to ensure your information remains confidential and safe.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Resculink need to access location data for track location. We securely store and protect your data on our servers, employing industry-standard encryption and best practices to ensure your information remains confidential and safe.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Resculink need to access location data for track location. We securely store and protect your data on our servers, employing industry-standard encryption and best practices to ensure your information remains confidential and safe.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Resculink need to access location data for track location. We securely store and protect your data on our servers, employing industry-standard encryption and best practices to ensure your information remains confidential and safe.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Resculink requests your permission to access microphone for video upload. The privacy of your data will be maintained strictly on Resculink server only.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Resculink need to access photo library to upload profile picture. We securely store and protect your data on our servers, employing industry-standard encryption and best practices to ensure your information remains confidential and safe.</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Montserrat-Black.ttf</string>
+		<string>Montserrat-Bold.ttf</string>
+		<string>Montserrat-ExtraBold.ttf</string>
+		<string>Montserrat-Light.ttf</string>
+		<string>Montserrat-Medium.ttf</string>
+		<string>Montserrat-Regular.ttf</string>
+		<string>Montserrat-SemiBold.ttf</string>
+	</array>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>bluetooth-peripheral</string>
+		<string>fetch</string>
+		<string>location</string>
+		<string>processing</string>
+		<string>remote-notification</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen.storyboard</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>arm64</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UIUserInterfaceStyle</key>
+	<string>Light</string>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>ITSAppUsesNonExemptEncryption</key>
+    <false/>
+ 
+</dict>
+</plist>
