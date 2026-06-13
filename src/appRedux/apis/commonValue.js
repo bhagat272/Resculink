@@ -1,16 +1,4 @@
-// const BASE_URL = 'https://demo.dev9server.com/wedding-planning-made-easy/api/v1/';
-// const IMAGE_URL= "https://demo.dev9server.com/wedding-planning-made-easy/"
-
-// const BASE_URL = "https://wpmellc.app/api/v1/"; //test stripe of client
-// const BASE_URL = 'https://demo.dev9server.com/resculink/api/v1/'; //demo
-// const IMAGE_URL = 'https://demo.dev9server.com/resculink/'; //demo
-// const PRIVACY_POLICY_URL = 'https://demo.dev9server.com/resculink/page/'; //demo
-
-// const SOCKET_URL = 'http://resculink.app:7532/';
-const SOCKET_URL = 'http://3.16.39.197:7532/';
-const BASE_URL = 'https://resculink.app/api/v1/'; //live
-const IMAGE_URL = 'https://resculink.app/'; //live
-const PRIVACY_POLICY_URL = 'https://resculink.app/page/'; //live
+ 
 
 const kInternetError = "You're offline \n Please check internet connection.";
 const kSorryError = 'Sorry, something wrong.';
