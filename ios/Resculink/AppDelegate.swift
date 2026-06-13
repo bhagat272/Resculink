@@ -17,7 +17,7 @@ class AppDelegate: RCTAppDelegate, UNUserNotificationCenterDelegate {
     // You can add your custom initial props in the dictionary below.
     // They will be passed down to the ViewController used by React Native.
     self.initialProps = [:]
-    GMSServices.provideAPIKey("AIzaSyDxBO4MjINqR2d08OyG9ncwIq4ve2hgUxA")
+    GMSServices.provideAPIKey("MAP KEY")
     FirebaseApp.configure()
 
      // ✅ UserNotification setup
